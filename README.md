@@ -1,26 +1,44 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+# 项目介绍 
 
-## How to use this template
+采用最新的Ionic3 + Angular 4 + TypeScript构建的一个简单APP，也算是过了一把安卓瘾。API用的是wunderground.com.
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+# 安装指南
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+0. npm install -g ionic cordova
 
-### With the Ionic CLI:
+1. git clone https://github.com/936695852/ionic3-iWeather.git
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+2. cd ionic3-iWeather
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myTabs tabs
-```
+3. npm install
 
-Then, to run it, cd into `myTabs` and run:
+4.ionic cordova build android/ios
 
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
 
-Substitute ios for android if not on a Mac.
 
+# 在浏览器中查看
+
+0. npm install -g ionic cordova
+
+1. git clone https://github.com/936695852/ionic3-iWeather.git
+
+2. cd ionic3-iWeather
+
+3. npm install
+
+4.ionic serve
+
+# 下载地址
+
+## [Android](http://fir.im/q34f)
+
+
+# 项目展示
+
+![首页](http://obxi72nz0.bkt.clouddn.com/17-9-2/36184963.jpg)
+![About](http://obxi72nz0.bkt.clouddn.com/17-9-2/52001713.jpg)
+![设置页](http://obxi72nz0.bkt.clouddn.com/17-9-2/89398475.jpg)
+
+# 参考视频
+
+https://www.youtube.com/watch?v=qs2n_poLarc
